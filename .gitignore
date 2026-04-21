@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Personal data — excluded from repo
+portfolio.json
+equity_log.json
+
+# Screenshots & analysis files
+Screenshot*.png
+*.xlsx
+
+# Flask / runtime
+*.log
+.DS_Store
